@@ -74,12 +74,14 @@ Sur les 14200 décès répertoriés par la DREES sur cette période, la moitié 
 # Code 
 
 Le code est disponible sur Github :
-https://github.com/raphaeljolivet/drees-deces
+https://github.com/bpresles/drees-deces
 
 
 # Auteur
 
 Raphaël Jolivet : https://mamot.fr/@RaphJ
+
+Bertrand Presles : bertrand@presles.fr
 
 
 # Licence
